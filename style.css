@@ -1,0 +1,20 @@
+/* style.css */
+
+/* Calculator Dimensions */
+.calculator {
+    max-width: 400px;
+    width: 100%;
+}
+
+/* Button Styles */
+button {
+    font-size: 1.5rem;
+    height: 60px;
+}
+
+/* Display Styles */
+#display {
+    height: 60px;
+    font-size: 1.5rem;
+    background-color: #e9ecef;
+}
